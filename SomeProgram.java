@@ -4,11 +4,11 @@ public class SomeProgram {
 	  System.out.println("We will be Git experts, soon."); 
     }
 	
-<<<<<<< HEAD
 	public void manageTheRockets() {
-=======
-	    public void manageTheSatellite() {
->>>>>>> managing-satellite
+		    // TODO implement
+	}
+	
+	public void manageTheSatellite() {
     // TODO implement
 	}
 }
